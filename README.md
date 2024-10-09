@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nagaraj7650
-- 👀 I’m interested in ...coding currently
-- 🌱 I’m currently learning ...learning from CS50
-- 💞️ I’m looking to collaborate on ...i dont know will update later
+- 👀 I’m interested in ...Coding whatever I like or want to make 
+- 🌱 I’m currently learning ...learning from the Internet
+- 💞️ I’m looking to collaborate on ...Group Projects 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...i am a human :)
